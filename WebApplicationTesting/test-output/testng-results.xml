@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Successfully Naviageted to Register WebPage]]>
+    </line>
+    <line>
+      <![CDATA[LogIn Successful -- PASS]]>
+    </line>
+    <line>
+      <![CDATA[Succuessfully Navigated to Support Page -- PASS]]>
+    </line>
+    <line>
+      <![CDATA[Succuessfully Navigated to Contact Page -- PASS]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22446" started-at="2018-05-16T00:33:06Z" finished-at="2018-05-16T00:33:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22446" started-at="2018-05-16T00:33:06Z" finished-at="2018-05-16T00:33:28Z">
+      <class name="com.POM.NewTours_HomePageTesting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.POM.NewTours_HomePageTesting@6cc4c815]" name="setUp" is-config="true" duration-ms="6812" started-at="2018-05-16T06:03:06Z" finished-at="2018-05-16T06:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.POM.NewTours_HomePageTesting@6cc4c815]" name="HomePage" duration-ms="15618" started-at="2018-05-16T06:03:13Z" finished-at="2018-05-16T06:03:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Naviageted to Register WebPage]]>
+            </line>
+            <line>
+              <![CDATA[LogIn Successful -- PASS]]>
+            </line>
+            <line>
+              <![CDATA[Succuessfully Navigated to Support Page -- PASS]]>
+            </line>
+            <line>
+              <![CDATA[Succuessfully Navigated to Contact Page -- PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.POM.NewTours_HomePageTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

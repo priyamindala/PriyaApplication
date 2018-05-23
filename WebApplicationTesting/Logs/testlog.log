@@ -1,0 +1,14 @@
+2018-05-17 06:36:57,491 - NewTours_LogInTest -INFO - Firefox Browser opened Successfully
+2018-05-17 06:37:00,895 - NewTours_LogInTest -INFO - Successfully navigated to NewTours Application
+2018-05-17 06:37:01,189 - NewTours_LogInTest -INFO - Entered valid Email Id
+2018-05-17 06:37:01,358 - NewTours_LogInTest -INFO - Entered Valid Password
+2018-05-17 06:37:22,947 - NewTours_LogInTest -INFO - Clicked on signIn button
+2018-05-17 06:37:22,975 - NewTours_LogInTest -INFO - LogIn is Successfully
+2018-05-17 06:37:23,001 - NewTours_LogInTest -INFO - NewTOurs Application Closed Successfully
+2018-05-17 06:41:11,655 - NewTours_LogInTest -INFO - Firefox Browser opened Successfully
+2018-05-17 06:41:14,280 - NewTours_LogInTest -INFO - Successfully navigated to NewTours Application
+2018-05-17 06:41:14,583 - NewTours_LogInTest -INFO - Entered valid Email Id
+2018-05-17 06:41:14,757 - NewTours_LogInTest -INFO - Entered Valid Password
+2018-05-17 06:41:24,348 - NewTours_LogInTest -INFO - Clicked on signIn button
+2018-05-17 06:41:24,378 - NewTours_LogInTest -INFO - LogIn is Successfully
+2018-05-17 06:41:24,398 - NewTours_LogInTest -INFO - NewTOurs Application Closed Successfully

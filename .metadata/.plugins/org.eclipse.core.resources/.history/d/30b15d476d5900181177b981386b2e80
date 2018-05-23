@@ -1,0 +1,15 @@
+package com.Log4JJ;
+
+import org.apache.log4j.Logger;
+
+public class NewTours_LogInTest 
+{
+	public static Logger logger = Logger.getLogger("NewTours_LogInTest");
+	
+	public static void main(String[] args) 
+	{
+		
+
+	}
+
+}

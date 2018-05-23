@@ -1,0 +1,14 @@
+[main] INFO  NewTours_LogInTest  - Firefox Browser opened Successfully
+[main] INFO  NewTours_LogInTest  - Successfully navigated to NewTours Application
+[main] INFO  NewTours_LogInTest  - Entered valid Email Id
+[main] INFO  NewTours_LogInTest  - Entered Valid Password
+[main] INFO  NewTours_LogInTest  - Clicked on signIn button
+[main] INFO  NewTours_LogInTest  - LogIn is Successfully
+[main] INFO  NewTours_LogInTest  - NewTOurs Application Closed Successfully
+[main] INFO  NewTours_LogInTest  - Firefox Browser opened Successfully
+[main] INFO  NewTours_LogInTest  - Successfully navigated to NewTours Application
+[main] INFO  NewTours_LogInTest  - Entered valid Email Id
+[main] INFO  NewTours_LogInTest  - Entered Valid Password
+[main] INFO  NewTours_LogInTest  - Clicked on signIn button
+[main] INFO  NewTours_LogInTest  - LogIn is Successfully
+[main] INFO  NewTours_LogInTest  - NewTOurs Application Closed Successfully

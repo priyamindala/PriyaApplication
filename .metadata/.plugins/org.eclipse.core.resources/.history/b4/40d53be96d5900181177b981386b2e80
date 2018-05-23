@@ -1,0 +1,20 @@
+package com.Log4JJ;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class NewTours_LogInTest 
+{
+	public static Logger logger = Logger.getLogger("NewTours_LogInTest");
+	
+	public static void main(String[] args) 
+	{
+		PropertyConfigurator.configure("Log4j.properties");
+		
+		FirefoxDriver driver = new FirefoxDriver();
+		
+
+	}
+
+}

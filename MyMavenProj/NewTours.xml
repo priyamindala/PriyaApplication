@@ -1,0 +1,7 @@
+<suite name="NewTours">
+ <test name="LogInTest">
+   <classes>
+    <class name="com.NewToursLogInTest.LogInTest"/>
+   </classes>
+ </test>
+</suite>
